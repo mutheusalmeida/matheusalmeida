@@ -4,8 +4,6 @@
   </a>
 </p>
 
-&nbsp;  
-
 ### Hey there 👋
 
 How's it going? I hope you're coding well.
