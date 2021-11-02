@@ -12,4 +12,4 @@ My name is Matheus Almeida and I'm a junior front-end developer from Manaus, Bra
 
 ### Some stats 🔥
 
-[![Matheus Almeida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutheus&show_icons=true&theme=graywhite&border_color=000&disable_animations=true&hide_rank=true)](https://github.com/mutheus/github-readme-stats)
+[![Matheus Almeida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutheus&show_icons=true&theme=graywhite&border_color=000&disable_animations=true&hide_rank=true)
