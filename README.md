@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mutheusalmeida.github.io/">
-    <img src="https://raw.githubusercontent.com/mutheusalmeida/mutheusalmeida/main/matheus-almeida-logo.svg" width="100px">
+    <img src="https://raw.githubusercontent.com/mutheusalmeida/mutheusalmeida/main/matheus-almeida-logo.svg" width="180px">
   </a>
 </p>
 
