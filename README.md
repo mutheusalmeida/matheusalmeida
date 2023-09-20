@@ -8,7 +8,7 @@
 
 How's it going? I hope you're doing well.
 
-My name is Matheus Almeida and I'm a front-end developer based in Manaus, Brazil.
+My name is Matheus Almeida and I'm a software developer based in Manaus, Brazil.
 
 ### Some stats 🔥
 
